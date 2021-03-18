@@ -1,0 +1,3 @@
+Name: Patrick Redoutey
+
+There are 10 kinds of people: those who understand binary and those who don't.
